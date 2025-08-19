@@ -48,3 +48,5 @@ git clone https://github.com/kin-mrqz/quantitative-research-notebooks
 cd quantitative-research-notebooks
 jupyter notebook
 ```
+
+You may see my certification [here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_Cavjx9sHwAJA6dMkf_1755614606120_completion_certificate.pdf)
