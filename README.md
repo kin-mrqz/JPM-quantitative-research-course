@@ -1,5 +1,3 @@
----
-
 # Quantitative Finance Notebooks
 
 This repository contains four Jupyter notebooks demonstrating applied techniques in **quantitative finance**, from commodity price modeling to credit risk analysis.
@@ -50,5 +48,3 @@ git clone https://github.com/kin-mrqz/quantitative-research-notebooks
 cd quantitative-research-notebooks
 jupyter notebook
 ```
-
----
